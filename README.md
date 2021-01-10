@@ -4,7 +4,7 @@ API-REST-FULL with some Entities and Authentication Json Web Token, NodeJs, Expr
 # Entitys:
 
 **Entities, structure of their tables and their relationships**
-foto
+![Image](https://github.com/BrunoBeltreGuzman/api-rest-full-nodejs-mysql/blob/main/screenshot/tables.png)
 **More specific structure in `SQL` folder**
 
 # Structure:
